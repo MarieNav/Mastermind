@@ -5,7 +5,7 @@
 
 *[IRONHACK Bootcamp DATA ANALYSE August 2020]*
 
-## Project Week 1 - Coding our proper verison of mastermind
+## Project Week 1 - Coding our proper version of mastermind
 
 In this repository, there are : 
 - our presentation Power-Point file
@@ -14,11 +14,11 @@ In this repository, there are :
 - enjoy playing the game !
 
 ## Project Description
-Using basics python ressources we learnt in this first week, we worked remotely to create a mastermind game.
+Using basics python resources we learnt in this first week, we worked remotely to create a mastermind game.
 This software is able to take an input from the user and provide an output.
 
 ## Rules
-It’s a one player game.The computer generates a random secret code. The player has to guess it in limited rounds.
+It’s a one player game. The computer generates a random secret code. The player has to guess it in limited rounds.
 In the original game, the code is composed by colored balls we replaced by numbers. 
 To increase the difficulty, it possible to modify numbers of digits, colors and/or rounds.
 
@@ -29,5 +29,5 @@ We plan our project on Trello, where we wrote the pseudocode.
 We got inspired from our courses and from code existing on internet and we improved it our way.
 
 ## Links
-[Repository]https://github.com/MarieNav/Mastermind
-[Trello]https://trello.com/b/RKHRequB/mastermind-code-project 
+* [Repository](https://github.com/MarieNav/Mastermind)
+* [Trello](https://trello.com/b/RKHRequB/mastermind-code-project)
